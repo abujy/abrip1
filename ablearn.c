@@ -85,7 +85,7 @@ char C[5];
   C[4]='\0';
 printf("%s\n",C);
 
-  strcpy(C,"Mark");
+  strcpy(C,"Mary");
 printf("Now changed to %s\n",C);
 
 }
@@ -106,7 +106,7 @@ printf("Hello student\n");
 //myarray();
 
 // Pass Array
-mypasar();
+//mypasar();
 // Char Array
 mycharry();
 }
