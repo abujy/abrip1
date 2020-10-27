@@ -103,7 +103,7 @@ printf("Hello student\n");
 //mychar();
 
 // Array
-//myarray();
+myarray();
 
 // Pass Array
 //mypasar();
