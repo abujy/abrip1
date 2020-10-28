@@ -97,7 +97,7 @@ int main()
 system("clear");
 printf("Hello student\n");
 // Call integer work
-//myint();
+myint();
 
 // Characters
 //mychar();
